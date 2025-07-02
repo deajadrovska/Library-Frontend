@@ -1,0 +1,11 @@
+/* src/ui/pages/BooksPage.css */
+.books-box {
+    min-height: 400px;
+}
+
+.progress-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}

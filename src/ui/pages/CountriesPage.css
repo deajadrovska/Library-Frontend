@@ -1,0 +1,11 @@
+/* src/ui/pages/CountriesPage.css */
+.countries-box {
+    min-height: 400px;
+}
+
+.progress-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
